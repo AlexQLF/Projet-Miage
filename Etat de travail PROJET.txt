@@ -1,0 +1,36 @@
+Alexandre BROCHADO, Rahul DAS
+
+
+Cours 16/03 : 
+
+Modélisation de la base de donnée et du plan de travail
+
+Cours 19/03 : 
+
+Création de la base de donnée et importation du jeu de test
+Réfléchir à comment structurer notre interface et notre projet web
+
+Cours 20/03 matin :
+
+Réalisation d'une page index.php dans lequel sera contenu tous les formulaires de création/modification/suppression
+Réalisation de premier fomrulaire qui seront la base du code pour tout les autres : - formulaire de création d'un groupe
+										    - formulaire de suppression d'un groupe
+
+Ces 2 formulaires sont fonctionnels et nous servent de maquette au prochain.
+
+Prévisions cours 20/03 après-midi :
+
+Réalisation des formulaires de création/modification/suppression demandés
+Dépendant de l'avancé : Rélféchir à comment importer des individus depuis un fichier CSV ou Excel dans notre interface.
+
+Prévisions pour le week-end :
+
+Finir les fomrulaires manquant si ils en manquent.
+Rendre notre interface simple et ergonomique.
+Réalisation de la documentation et du rapport.
+
+
+
+
+
+
